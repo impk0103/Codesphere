@@ -1,0 +1,1 @@
+mongodb+srv://pratikkr317:GJRFc8BdFzzpGxXv@cluster0.9eaewgh.mongodb.net/
